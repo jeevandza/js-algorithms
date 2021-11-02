@@ -440,5 +440,4 @@ console.log(allConstruct('purple', ['p', 'ur', 'purple', 'ple']))
 
 
 console.log(allConstruct('wordwarcraft', ' wor', 'd', ',craft', 'dede', 'wa', 'r'))
-
-
+*/
